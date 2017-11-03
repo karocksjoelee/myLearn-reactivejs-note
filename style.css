@@ -1,0 +1,19 @@
+.title {
+    color: darkcyan;
+    text-align: center;
+}
+
+.sub-title {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.console {
+    background-color: black;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    margin: 30px;
+    min-height: 500px;
+    width: auto;
+    border-radius: 10px;
+}
